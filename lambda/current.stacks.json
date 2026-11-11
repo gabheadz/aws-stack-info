@@ -11,17 +11,17 @@
         "name": "Node.js 24",
         "identifier": "nodejs24.x",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Apr 30, 2028",
-        "blockFunctionCreate": "Jun 1, 2028",
-        "blockFunctionUpdate": "Jul 1, 2028"
+        "deprecationDate": "2028-04-30",
+        "blockFunctionCreate": "2028-06-01",
+        "blockFunctionUpdate": "2028-07-01"
     },
     {
         "name": "Node.js 22",
         "identifier": "nodejs22.x",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Apr 30, 2027",
-        "blockFunctionCreate": "Jul 29, 2027",
-        "blockFunctionUpdate": "Aug 31, 2027"
+        "deprecationDate": "2027-04-30",
+        "blockFunctionCreate": "2027-07-29",
+        "blockFunctionUpdate": "2027-08-31"
     },
     {
         "name": "Python 3.15",
@@ -35,111 +35,111 @@
         "name": "Python 3.14",
         "identifier": "python3.14",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     },
     {
         "name": "Python 3.13",
         "identifier": "python3.13",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     },
     {
         "name": "Python 3.12",
         "identifier": "python3.12",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Oct 31, 2028",
-        "blockFunctionCreate": "Nov 30, 2028",
-        "blockFunctionUpdate": "Jan 10, 2029"
+        "deprecationDate": "2028-10-31",
+        "blockFunctionCreate": "2028-11-30",
+        "blockFunctionUpdate": "2029-01-10"
     },
     {
         "name": "Python 3.11",
         "identifier": "python3.11",
         "operatingSystem": "Amazon Linux 2",
-        "deprecationDate": "Jun 30, 2027",
-        "blockFunctionCreate": "Jul 29, 2027",
-        "blockFunctionUpdate": "Aug 31, 2027"
+        "deprecationDate": "2027-06-30",
+        "blockFunctionCreate": "2027-07-29",
+        "blockFunctionUpdate": "2027-08-31"
     },
     {
         "name": "Java 25",
         "identifier": "java25",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     },
     {
         "name": "Java 21",
         "identifier": "java21",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     },
     {
         "name": "Java 17",
         "identifier": "java17.al2023",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     },
     {
         "name": "Java 11",
         "identifier": "java11.al2023",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     },
     {
         "name": "Java 8",
         "identifier": "java8.al2023",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     },
     {
         "name": "Java 17",
         "identifier": "java17",
         "operatingSystem": "Amazon Linux 2",
-        "deprecationDate": "Jun 30, 2027",
-        "blockFunctionCreate": "Jul 29, 2027",
-        "blockFunctionUpdate": "Aug 31, 2027"
+        "deprecationDate": "2027-06-30",
+        "blockFunctionCreate": "2027-07-29",
+        "blockFunctionUpdate": "2027-08-31"
     },
     {
         "name": "Java 11",
         "identifier": "java11",
         "operatingSystem": "Amazon Linux 2",
-        "deprecationDate": "Jun 30, 2027",
-        "blockFunctionCreate": "Jul 29, 2027",
-        "blockFunctionUpdate": "Aug 31, 2027"
+        "deprecationDate": "2027-06-30",
+        "blockFunctionCreate": "2027-07-29",
+        "blockFunctionUpdate": "2027-08-31"
     },
     {
         "name": "Java 8",
         "identifier": "java8.al2",
         "operatingSystem": "Amazon Linux 2",
-        "deprecationDate": "Jun 30, 2027",
-        "blockFunctionCreate": "Jul 29, 2027",
-        "blockFunctionUpdate": "Aug 31, 2027"
+        "deprecationDate": "2027-06-30",
+        "blockFunctionCreate": "2027-07-29",
+        "blockFunctionUpdate": "2027-08-31"
     },
     {
         "name": ".NET 10",
         "identifier": "dotnet10",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Nov 14, 2028",
-        "blockFunctionCreate": "Dec 14, 2028",
-        "blockFunctionUpdate": "Jan 15, 2029"
+        "deprecationDate": "2028-11-14",
+        "blockFunctionCreate": "2028-12-14",
+        "blockFunctionUpdate": "2029-01-15"
     },
     {
         "name": ".NET 9 (container only)",
         "identifier": "dotnet9",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Nov 10, 2026",
+        "deprecationDate": "2026-11-10",
         "blockFunctionCreate": "Not scheduled",
         "blockFunctionUpdate": "Not scheduled"
     },
@@ -147,40 +147,40 @@
         "name": ".NET 8",
         "identifier": "dotnet8",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Nov 10, 2026",
-        "blockFunctionCreate": "Jul 29, 2027",
-        "blockFunctionUpdate": "Aug 31, 2027"
+        "deprecationDate": "2026-11-10",
+        "blockFunctionCreate": "2027-07-29",
+        "blockFunctionUpdate": "2027-08-31"
     },
     {
         "name": "Ruby 4.0",
         "identifier": "ruby4.0",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Mar 31, 2029",
-        "blockFunctionCreate": "Apr 30, 2029",
-        "blockFunctionUpdate": "May 31, 2029"
+        "deprecationDate": "2029-03-31",
+        "blockFunctionCreate": "2029-04-30",
+        "blockFunctionUpdate": "2029-05-31"
     },
     {
         "name": "Ruby 3.4",
         "identifier": "ruby3.4",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Mar 31, 2028",
-        "blockFunctionCreate": "Apr 30, 2028",
-        "blockFunctionUpdate": "May 31, 2028"
+        "deprecationDate": "2028-03-31",
+        "blockFunctionCreate": "2028-04-30",
+        "blockFunctionUpdate": "2028-05-31"
     },
     {
         "name": "Ruby 3.3",
         "identifier": "ruby3.3",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Mar 31, 2027",
-        "blockFunctionCreate": "Jul 29, 2027",
-        "blockFunctionUpdate": "Aug 31, 2027"
+        "deprecationDate": "2027-03-31",
+        "blockFunctionCreate": "2027-07-29",
+        "blockFunctionUpdate": "2027-08-31"
     },
     {
         "name": "OS-only Runtime",
         "identifier": "provided.al2023",
         "operatingSystem": "Amazon Linux 2023",
-        "deprecationDate": "Jun 30, 2029",
-        "blockFunctionCreate": "Jul 31, 2029",
-        "blockFunctionUpdate": "Aug 31, 2029"
+        "deprecationDate": "2029-06-30",
+        "blockFunctionCreate": "2029-07-31",
+        "blockFunctionUpdate": "2029-08-31"
     }
 ]
